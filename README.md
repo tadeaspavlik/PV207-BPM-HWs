@@ -5,9 +5,9 @@
 This repository contains the solution of individual homeworks for subject [PV207](https://is.muni.cz/predmet/fi/jaro2020/PV207) from the [Faculty of Informatics Masaryk University](https://www.fi.muni.cz/index.html.en) in the Spring 2020 semester. Solution for HW0 was performed in the [jBPM](https://www.jbpm.org/) toolkit and solutions for HW1 and HW2 were performed in [Signavio](https://www.signavio.com/) software.
 ## Contents
 
-* [Homework 0](/HW0)
-* [Homework 1](/HW1)
-* [Homework 2](/HW2)
+* [Homework 0](/HW0) (5/5 points)
+* [Homework 1](/HW1) (8/8 points)
+* [Homework 2](/HW2) (12/12 points)
 
 ## Homework 0
 
